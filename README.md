@@ -9,6 +9,9 @@
 
 主讲：成都大学信息科学与工程学院 赵卫东
 
+## GitHUB用户名
+- 查看与提交你的GitHUB用户名：[http://202.115.82.8:1522](http://202.115.82.8:1522)
+
 ## 搭建文档编写环境：
 - 编辑器: IntelliJ IDEA
 - IDEA插件: markdown 和 plantuml
