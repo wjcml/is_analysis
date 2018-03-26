@@ -26,6 +26,7 @@
 
 - 实验提交到自己的gitHub的is_analysis/test1目录中，主要文件名是：README.md，再附上一些图片文件。
 - 你的gitHub中的is_analysis/test1目录中可能有以下文件：
+- 本次实验需要写到纸质实验报告中，纸质报告只需要写一个业务流程图。
 
 ``` filelist
 README.md
