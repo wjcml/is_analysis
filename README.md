@@ -26,13 +26,13 @@
 
 - 实验提交到自己的gitHub的is_analysis/test1目录中，主要文件名是：README.md，再附上一些图片文件。
 - 你的gitHub中的is_analysis/test1目录中可能有以下文件：
-- 本次实验需要写到纸质实验报告中，纸质报告只需要写一个业务流程图。
 
 ``` filelist
 README.md
 flow1.jpg
 flow2.jpg
 ```
+- 本次实验需要写到纸质实验报告中，纸质报告只需要写一个业务流程图。
 
 - 你的实验内容提交成功后，可以直接访问https://github.com/<b>zhang</b>/is_analysis/is_analysis/tree/master/test1
 查看你编写的实验文档。其中zhang是你的gitHub用户名。
