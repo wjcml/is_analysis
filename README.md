@@ -37,7 +37,7 @@ flow2.jpg
 
 <b>参考</b>
 
-- 绘制方法参考[项目/参考文档/PlantUML_Language_Reference_Guide.pdf](./项目/参考文档/PlantUML_Language_Reference_Guide.pdf)文件的Activity Diagram (beta)标准
+- 绘制方法参考[PlantUML标准](http://plantuml.com/activity-diagram-beta)文件的Activity Diagram (beta)
 - Markdown格式参考：https://www.jianshu.com/p/b03a8d7b1719
 - 老师的教学资源：https://github.com/zwdbox/is_analysis
 - 老师以同学身份做的<b>伪实验1</b>教参：https://github.com/zwdbox/is_analysis/test1
