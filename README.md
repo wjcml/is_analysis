@@ -33,7 +33,7 @@ flow1.jpg
 flow2.jpg
 ```
 
-- 你的实验内容提交成功后，可以直接访问https://github.com/<b>zhang</b>/is_analysis/test1
+- 你的实验内容提交成功后，可以直接访问https://github.com/<b>zhang</b>/is_analysis/is_analysis/tree/master/test1
 查看你编写的实验文档。其中zhang是你的gitHub用户名。
 
 <b>参考</b>
@@ -41,4 +41,4 @@ flow2.jpg
 - 绘制方法参考[PlantUML标准](http://plantuml.com/activity-diagram-beta)文件的活动图(新语法)Activity Diagram (beta)
 - Markdown格式参考：https://www.jianshu.com/p/b03a8d7b1719
 - 老师的教学资源：https://github.com/zwdbox/is_analysis
-- 老师以同学身份做的<b>伪实验1</b>教参：https://github.com/zwdbox/is_analysis/test1
+- 老师以同学身份做的<b>伪实验1</b>教参：https://github.com/zwdbox/is_analysis/tree/master/test1
