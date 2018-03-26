@@ -20,6 +20,7 @@
 - 图6.1按不同的使用者（用户类别）分成了4行，图6.2按不同的用户类别分成了4列，
   如何在建模中区分各功能的使用者？
 - 图6.1中有同步功能“A、B试卷”和“打印审批表”等，图6.2也有同步功能“安排工人”和“安排材料”，如何在建模中绘制？
+- 业务流程建模采用PlantUML的活动图(新语法)Activity Diagram (beta)标准绘制。
 
 <b>实验提交</b>
 
@@ -37,7 +38,7 @@ flow2.jpg
 
 <b>参考</b>
 
-- 绘制方法参考[PlantUML标准](http://plantuml.com/activity-diagram-beta)文件的Activity Diagram (beta)
+- 绘制方法参考[PlantUML标准](http://plantuml.com/activity-diagram-beta)文件的活动图(新语法)Activity Diagram (beta)
 - Markdown格式参考：https://www.jianshu.com/p/b03a8d7b1719
 - 老师的教学资源：https://github.com/zwdbox/is_analysis
 - 老师以同学身份做的<b>伪实验1</b>教参：https://github.com/zwdbox/is_analysis/test1
