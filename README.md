@@ -11,6 +11,7 @@
 
 ## GitHUB用户名
 - 查看与修改你的GitHUB用户名：<a href="http://202.115.82.8:1522" target="_blank">http://202.115.82.8:1522</a>
+
 ## 搭建文档编写环境：
 - 编辑器: IntelliJ IDEA
 - IDEA插件: markdown 和 plantuml
