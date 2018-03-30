@@ -6,7 +6,7 @@
 ## 流程图1：考试及成绩管理流程
 
 **PlantUML源码如下：**
-
+'''
 @startuml
 |教导处|
 start
@@ -50,6 +50,7 @@ fork again
   :期末流程结束;
   stop
 @enduml
+'''
 **业务流程图如下：**
 
 ![flow1](flow1.jpg)
