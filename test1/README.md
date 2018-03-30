@@ -53,7 +53,7 @@ fork again
 ```
 **业务流程图如下：**
 
-![flow1](wc.png)
+![flow1](wc1.png)
 
 **流程说明：**
 
@@ -104,7 +104,7 @@ stop
 
 **业务流程图如下：**
 
-![flow2](wc1.png)
+![flow2](wc.png)
 
 **流程说明：**
 
