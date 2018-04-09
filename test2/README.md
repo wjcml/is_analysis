@@ -5,25 +5,89 @@
 
 ## 1. 图书管理系统的用例关系图
 
-### 1.1 用例图PlantUML源码如下：
+### 1.1 借阅者用例图PlantUML源码如下：
 
 ``` usecase
 @startuml
+:借阅者: as Borrower
+left to right direction
+Borrower -->(查找图书)
+Borrower -->(查询个人信息)
+Borrower -->(预定图书)
+Borrower -->(借阅图书)
+Borrower -->(归还图书)
+(归还图书)<..(缴纳罚金):<<extend>>
+(查询个人信息)...>(登录系统):<<include>>
+(预定图书)...>(登录系统):<<include>>
+@enduml
+```
 
-User -> (Start)
-User --> (Use the application) : A small label
+### 1.2. 借阅者用例图如下：
 
-:Main Admin: ---> (Use the application) : This is\nyet another\nlabel
 
+![usecase](reader.png)
+
+ 
+### 1.3. 图书管理员用例图PlantUML源码如下：
+ 
+``` usecase
+@startuml
+:图书管理员: as admin
+left to right direction
+admin-->(图书借阅处理)
+admin-->(图书归还处理)
+admin-->(登录图书管理系统)
+(登录图书管理系统)-->(查询借阅者信息)
+(登录图书管理系统)-->(添加图书信息)
+(登录图书管理系统)-->(查询图书信息)
+(登录图书管理系统)-->(修改图书信息)
+(登录图书管理系统)-->(删除图书信息)
+(图书借阅处理)<..(删除预定):<<extend>>
+(图书借阅处理)..>(检查用户合法性):<<include>>
+(图书归还处理)<..(收取罚金):<<extend>>
+@enduml
+```
+
+### 1.4. 图书管理员用例图如下：
+
+
+![usecase](reader1.png)
+
+
+### 1.5. 系统管理员用例图PlantUML源码如下：
+ 
+``` usecase
+@startuml
+:系统管理员: as ad
+left to right direction
+ad-->(添加数目)
+ad-->(添加图书信息)
+ad-->(查询图书信息)
+ad-->(修改图书信息)
+ad-->(删除图书信息)
+ad-->(添加读者信息)
+ad-->(删除读者信息)
+ad-->(修改读者信息)
+ad-->(查询读者信息)
+(添加数目)..>(登录系统):<<include>>
+(添加图书信息)..>(登录系统):<<include>>
+(查询图书信息)..>(登录系统):<<include>>
+(修改图书信息)..>(登录系统):<<include>>
+(删除图书信息)..>(登录系统):<<include>>
+(添加读者信息)..>(登录系统):<<include>>
+(删除读者信息)..>(登录系统):<<include>>
+(修改读者信息)..>(登录系统):<<include>>
+(查询读者信息)..>(登录系统):<<include>>
 @enduml
 ```
 
 
-### 1.2. 用例图如下：
+### 1.6. 系统管理员用例图如下：
 
-参见图7.6
 
-![usecase](usecase.png)
+![usecase](reader2.png)
+
+
 
 ## 2. 参与者说明：
 
