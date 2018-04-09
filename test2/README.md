@@ -107,27 +107,50 @@ ad-->(查询读者信息)
 
 ###     3.1 “借出图书”用例
 
-参见：表7.5
+![usecase](reader4.png)
+
 
 ###     3.2 “购入图书”用例
 
-参见：表7.5
+
+![usecase](reader5.png)
 
 **“购入图书”用例流程图源码如下：**
 ``` uc1_flow
 @startuml
+|还书者|
 start
-:Hello world;
-:This is on defined on
-several **lines**;
+:提供所还图书;
+|管理员|
+:检查图书;
+if (图书是否损坏) then (是)
+|还书者|
+:办理赔偿手续;
+|管理员|
+else(否)
+:输入图书信息;
+|系统|
+fork
+:验证图书信息;
+fork again
+:验证读者信息;
+end fork
+fork
+:记录还书信息;
+fork again
+:修改图书状态;
+fork again
+:修改可借数量;
+end fork
+|管理员|
+:确认图书归还完毕;
+endif
 stop
 @enduml
 ```
 
 **“购入图书”用例流程图源码如下：**
 
-![uc1_flow](usecase1_flow.jpg)
+![uc1_flow](reader6.png)
 
-###     3.3 “***”用例
 
-参见：表7.5
