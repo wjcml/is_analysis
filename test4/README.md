@@ -50,7 +50,7 @@ deactivate admin
 ```
 
 ## 1.2. 借书用例顺序图
-![class](wc1.png)
+![class](qq.png)
 
 ## 1.3. 借书用例顺序图说明
 ```
@@ -109,7 +109,7 @@ deactivate admin
 ```
 
 ## 2.2. 还书用例顺序图
-![class](wc2.png)
+![class](qq'q.png)
 
 ## 2.3. 还书用例顺序图说明
 ```
