@@ -67,7 +67,7 @@
 1. 借阅者API
 
 - 功能：获取用户基本信息
-- 请求地址： http://localhost:8080/bookManage/v1/api/user_list
+- 请求地址： http://localhost:8080/borrowbook/
 - 请求方法：GET
 - 请求参数：
 
