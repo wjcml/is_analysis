@@ -100,7 +100,7 @@
 
 2. 验证API
 - 功能：用于验证借阅者id是否存在
-- 请求地址： http://localhost:8080/bookManage/v1/api/checking
+- 请求地址： http://localhost:8080/borrowbook/
 - 请求方法：POST
 - 请求参数：
 
