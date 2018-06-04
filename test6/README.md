@@ -28,7 +28,7 @@
 
 - ### [“登录”用例](./src/yongli/登录.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/login_html.html)
 - ### [“登出”用例](./src/yongli/退出.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
-- ### [“查看用户信息”用例](./用例/查看用户信息.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
+- ### [“查看用户信息”用例](./src/yongli/查看用户信息.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
 - ### [“修改用户信息”用例](./用例/修改用户信息.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
 - ### [“修改密码”用例](./用例/修改密码.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
 - ### [“录入班级信息”用例](./用例/录入班级信息.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-admin_html.html)
