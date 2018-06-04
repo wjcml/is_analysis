@@ -31,6 +31,9 @@
 - ### [“查看用户信息”用例](./src/yongli/查看用户信息.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
 - ### [“修改用户信息”用例](./src/yongli/修改用户信息.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
 - ### [“修改密码”用例](./src/yongli/修改密码.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
+- ### [“选择学期”用例](./src/yongli/选择学期.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-teacher_html.html)
+- ### [“选择课程”用例](./src/yongli/选择课程.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-teacher_html.html)
+
 - ### [“录入班级信息”用例](./用例/录入班级信息.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-admin_html.html)
 - ### [“录入课程信息”用例](./用例/录入课程信息.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-admin_html.html)
 - ### [“录入学生信息”用例](./用例/录入学生信息.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-admin_html.html)
@@ -41,7 +44,6 @@
 - ### [“发布实验”用例](./用例/发布实验.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/publishtest_html.html)
 - ### [“成绩录入”用例](./用例/成绩录入.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/correct_html.html)
 - ### [“打印成绩”用例](./用例/打印成绩.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-teacher_html.html)
-- ### [“选择学期”用例](./用例/选择学期.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-teacher_html.html)
 - ### [“学生列表”用例](./用例/学生列表.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-teacher_html.html)
 - ### [“课程列表”用例](./用例/课程列表.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
 - ### [“查看成绩”用例](./用例/查看成绩.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
