@@ -1,8 +1,8 @@
 <!-- markdownlint-disable MD033-->
 <!-- 禁止MD033类型的警告 https://www.npmjs.com/package/markdownlint -->
 
-# 接口：logout  [返回](../README.md)
-用例： [退出](../用例/退出.md)
+# 接口：logout  [返回](../yongli/退出.md)
+用例： [退出](../yongli/退出.md)
 
 - 功能：
     已经登录的用户登出平台。
