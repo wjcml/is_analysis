@@ -1,0 +1,7 @@
+@startuml
+title 基于GitHub的实验管理平台--登出用例的顺序图
+actor user
+user -> controller:登出请求
+controller->user:成功
+
+@enduml
