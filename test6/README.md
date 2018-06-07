@@ -15,11 +15,11 @@
 ## 2. 系统总体结构
 ![flow1](png1.png)
 
-## 3. 用例图设计 [源码](./src/usecase.puml)
-![](./img/usecase.png)
+## 3. 用例图设计 [源码](./yongli.puml)
+![](yongli.png)
 
-## 4. 类图设计 [源码](./src/class.puml)
-![](./img/class.png)
+## 4. 类图设计 [源码](./class.puml)
+![](fa.png)
 
 ## 5. 数据库设计
 - ### [参见数据库设计](./数据库设计.md)
