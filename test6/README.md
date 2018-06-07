@@ -26,7 +26,7 @@
 
 ## 6. 用例及界面详细设计
 
-- ### [“登录”用例](./src/yongli/登录.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/login_html.html)
+- ### [“登录”用例](./src/yongli/登录.md),[界面](https://wjcml.github.io/is_analysis/test6/ui/login.html)
 - ### [“登出”用例](./src/yongli/退出.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
 - ### [“查看用户信息”用例](./src/yongli/查看用户信息.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
 - ### [“修改用户信息”用例](./src/yongli/修改用户信息.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
