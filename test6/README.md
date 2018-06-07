@@ -16,7 +16,7 @@
 ![flow1](png1.png)
 
 ## 3. 用例图设计 [源码](./yongli.puml)
-![](yongli.png)
+![](用例.png)
 
 ## 4. 类图设计 [源码](./class.puml)
 ![](fa.png)
