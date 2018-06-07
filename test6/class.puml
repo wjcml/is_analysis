@@ -1,0 +1,54 @@
+@startuml
+class User{
+    +用户ID（user_id）
+    +用户名（user_name）
+    +GitHub账户（GitHub_name）
+    +用户密码（password）
+    +是否禁用（disable）
+}
+
+class Teacher{
+	+职工号（teacher_id）
+	+部门（department）
+
+}
+
+class stu{
+    +学号（stu_id）
+    +姓名（stu_name）
+    +专业（major）
+    +班级（C）
+}
+
+class course{
+    +课程号（course_id）
+    +课程名（course_name）
+    +课程简介
+    +开课学期（term）
+}
+
+class score{
+    +课程号（course_id）
+    +学号（stu_id）
+    +成绩（score）
+    +评语
+    +批改日期
+}
+
+class 实验{
+    +课程号（course_id）
+    +试验编号
+    +实验目的
+    +实验内容
+    +最后的日期
+}
+
+
+
+User*---Teacher
+User*---stu
+stu"n"---"n"course
+Teacher"n"---"n"course
+course"1"---"n"score
+course"1"---"n"实验
+@enduml
