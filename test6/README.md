@@ -27,17 +27,17 @@
 ## 6. 用例及界面详细设计
 
 - ### [“登录”用例](./src/yongli/登录.md),[界面](https://wjcml.github.io/is_analysis/test6/ui/login.html)
-- ### [“登出”用例](./src/yongli/退出.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
-- ### [“查看用户信息”用例](./src/yongli/查看用户信息.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
-- ### [“修改用户信息”用例](./src/yongli/修改用户信息.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
-- ### [“修改密码”用例](./src/yongli/修改密码.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
-- ### [“选择学期”用例](./src/yongli/选择学期.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-teacher_html.html)
-- ### [“选择课程”用例](./src/yongli/选择课程.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-teacher_html.html)
-- ### [“查看成绩”用例](./src/yongli/查看成绩.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
-- ### [“选课查询”用例](./src/yongli/选课查询.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/index-student_html.html)
-- ### [“发布实验”用例](./src/yongli/发布实验.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/publishtest_html.html)
-- ### [“提交实验作业”用例](./src/yongli/提交实验作业.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/publishtest_html.html)
-- ### [“评定成绩”用例](./src/yongli/评定成绩.md),[界面](https://guokunjin.github.io/is_analysis/test6/ui/publishtest_html.html)
+- ### [“登出”用例](./src/yongli/退出.md),[界面](https://wjcml.github.io/is_analysis/test6/ui/stu_index.html)
+- ### [“查看用户信息”用例](./src/yongli/查看用户信息.md),[界面](https://wjcml.github.io/is_analysis/test6/ui/search_msg.html)
+- ### [“修改用户信息”用例](./src/yongli/修改用户信息.md),[界面](https://wjcml.github.io/is_analysis/test6/ui/set_msg.html)
+- ### [“修改密码”用例](./src/yongli/修改密码.md),[界面](https://wjcml.github.io/is_analysis/test6/ui/set_password.html)
+- ### [“选择学期”用例](./src/yongli/选择学期.md),[界面](https://wjcml.github.io/is_analysis/test6/ui/get_term_course.html)
+- ### [“选择课程”用例](./src/yongli/选择课程.md),[界面](https://wjcml.github.io/is_analysis/test6/ui/get_term_course.html)
+- ### [“查看成绩”用例](./src/yongli/查看成绩.md),[界面](https://wjcml.github.io/is_analysis/test6/ui/search_score.html)
+- ### [“选课查询”用例](./src/yongli/选课查询.md),[界面](https://wjcml.github.io/is_analysis/test6/ui/search_course.html)
+- ### [“发布实验”用例](./src/yongli/发布实验.md),[界面](https://wjcml.github.io/is_analysis/test6/ui/set_work.html)
+- ### [“提交实验作业”用例](./src/yongli/提交实验作业.md),[界面](https://wjcml.github.io/is_analysis/test6/ui/get_work.html)
+- ### [“评定成绩”用例](./src/yongli/评定成绩.md),[界面](https://wjcml.github.io/is_analysis/test6/ui/set_score.html)
 
 
 
